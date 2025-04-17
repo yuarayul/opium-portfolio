@@ -7,7 +7,7 @@ const Portfolio = () => {
       id: 1,
       title: "Album Art",
       category: "design",
-      image: "/src/assets/BIRRPOSTER5 copy.jpg",
+      image: "/BIRRPOSTER5 copy.jpg",
       description: "Album cover art made for BrrrMusic",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -15,7 +15,7 @@ const Portfolio = () => {
       id: 20,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/skullposter.JPG",
+      image: "/skullposter.JPG",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -23,7 +23,7 @@ const Portfolio = () => {
       id: 21,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/broken1.jpg",
+      image: "/broken1.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -31,7 +31,7 @@ const Portfolio = () => {
       id: 2,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/bien.jpg",
+      image: "/bien.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -39,7 +39,7 @@ const Portfolio = () => {
       id: 3,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/lilmainaposter.jpg",
+      image: "/lilmainaposter.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -47,7 +47,7 @@ const Portfolio = () => {
       id: 4,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/shakurposter.jpg",
+      image: "/shakurposter.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -55,7 +55,7 @@ const Portfolio = () => {
       id: 5,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/shakurposter2.jpg",
+      image: "/shakurposter2.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -63,7 +63,7 @@ const Portfolio = () => {
       id: 6,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/nujabesposter2.jpg",
+      image: "/nujabesposter2.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -71,7 +71,7 @@ const Portfolio = () => {
       id: 7,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/kdotposter3 .jpg",
+      image: "/kdotposter3 .jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -79,7 +79,7 @@ const Portfolio = () => {
       id: 9,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/schitz1.jpg",
+      image: "/schitz1.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -87,7 +87,7 @@ const Portfolio = () => {
       id: 10,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/megposter .jpg",
+      image: "/megposter .jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -95,7 +95,7 @@ const Portfolio = () => {
       id: 11,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/playboicarti.jpg",
+      image: "/playboicarti.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -103,7 +103,7 @@ const Portfolio = () => {
       id: 12,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/ronaldoposter.jpg",
+      image: "/ronaldoposter.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -111,7 +111,7 @@ const Portfolio = () => {
       id: 13,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/nboposter.jpg",
+      image: "/nboposter.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -119,7 +119,7 @@ const Portfolio = () => {
       id: 14,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/sahposter .jpg",
+      image: "/sahposter .jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -127,7 +127,7 @@ const Portfolio = () => {
       id: 15,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/shadowyposter.jpg",
+      image: "/shadowyposter.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -135,7 +135,7 @@ const Portfolio = () => {
       id: 16,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/specops.png",
+      image: "/specops.png",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
@@ -143,7 +143,7 @@ const Portfolio = () => {
       id: 17,
       title: "Poster Design",
       category: "design",
-      image: "/src/assets/babayegaposter.jpg",
+      image: "/babayegaposter.jpg",
       description: "Poster Design Done for the Catalogue",
       tools: ["Photoshop", "Illustrator"]
     },
