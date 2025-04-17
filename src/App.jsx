@@ -1,0 +1,31 @@
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import Portfolio from './components/Portfolio';
+import ProjectDetail from './components/ProjectDetail';
+import ContactForm from './components/ContactForm';
+import LoadingSkeletons from './components/LoadingSkeletons';
+import About from './components/About';
+import Footer from './components/Footer';
+import './App.css';
+
+function App() {
+  return (
+    <Router>
+      <div className="app-container">
+        <Navbar />
+        <main className="main-content">
+          <Routes>
+            <Route path="/" element={<Portfolio />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/project/:id" element={<ProjectDetail />} />
+            <Route path="/contact" element={<ContactForm />} />
+            <Route path="/loading" element={<LoadingSkeletons />} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </Router>
+  );
+}
+
+export default App;
