@@ -353,4 +353,11 @@
   margin-bottom: 16px;
   color: var(--text-light);
 }
+@media (max-width: 768px) {
+  .product-item img {
+    height: auto;
+    object-fit: contain;
+  }
+}
+
 
